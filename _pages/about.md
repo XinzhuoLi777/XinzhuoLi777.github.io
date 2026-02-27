@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student (Computer Science) @ Electronics and Computer Science, DAIS, University of Southampton.
 
@@ -29,6 +29,6 @@ latest_posts:
 
 Xinzhuo Li (李昕卓) is a PhD student in Computer Science at the University of Southampton, working under the supervision of Prof. George Konstantinidis and Dr. Luis-Daniel Ibanez.
 
-He completed his MSc in Software Engineering at the University of Southampton in 2022.
+He completed his MSc in Software Engineering at the University of Southampton in 2024.
 
-Prior to his MSc, he received his BEng in Electronic Information Engineering from Huazhong University of Science and Technology (HUST).
+Prior to his MSc, he received his BEng in Electronic Information Engineering from Huazhong University of Science and Technology (HUST) in 2023.

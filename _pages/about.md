@@ -14,7 +14,7 @@ profile:
     <p>SO17</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -34,7 +34,3 @@ My research focuses on data management, intelligent database systems, and data p
 I completed my MSc in Software Engineering at the University of Southampton in 2024.
 
 Prior to my MSc, I received my BEng in Electronic Information Engineering from Huazhong University of Science and Technology (HUST) in 2023.
-
-<a href="mailto:xinzhuo.li@soton.ac.uk" aria-label="Email">
-  <i class="fa-solid fa-envelope"></i>
-</a>

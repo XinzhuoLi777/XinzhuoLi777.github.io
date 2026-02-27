@@ -31,10 +31,10 @@ I am a PhD student in Computer Science at the University of Southampton, working
 
 My research focuses on data management, intelligent database systems, and data privacy.
 
-<a href="mailto:xinzhuo.li@soton.ac.uk" aria-label="Email">
-  <i class="fa-solid fa-envelope"></i>
-</a>
-
 I completed my MSc in Software Engineering at the University of Southampton in 2024.
 
 Prior to my MSc, I received my BEng in Electronic Information Engineering from Huazhong University of Science and Technology (HUST) in 2023.
+
+<a href="mailto:xinzhuo.li@soton.ac.uk" aria-label="Email">
+  <i class="fa-solid fa-envelope"></i>
+</a>

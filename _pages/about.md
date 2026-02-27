@@ -31,7 +31,9 @@ I am a PhD student in Computer Science at the University of Southampton, working
 
 My research focuses on data management, intelligent database systems, and data privacy.
 
-<i class="fa-solid fa-envelope"></i> <a href="mailto:xinzhuo.li@soton.ac.uk">xinzhuo.li@soton.ac.uk</a>
+<a href="mailto:xinzhuo.li@soton.ac.uk" aria-label="Email">
+  <i class="fa-solid fa-envelope"></i>
+</a>
 
 I completed my MSc in Software Engineering at the University of Southampton in 2024.
 

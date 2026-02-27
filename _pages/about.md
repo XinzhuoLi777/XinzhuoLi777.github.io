@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Xinzhuo Li (李昕卓) is a PhD student in Computer Science at the University of Southampton, working under the supervision of [Prof. George Konstantinidis](https://www.konstantinidis.org/) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez).
+I am a PhD student in Computer Science at the University of Southampton, working under the supervision of [Prof. George Konstantinidis](https://www.konstantinidis.org/) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez).
 
 My research focuses on data management, intelligent database systems, and data privacy.
 
 <i class="fa-solid fa-envelope"></i> <a href="mailto:xinzhuo.li@soton.ac.uk">xinzhuo.li@soton.ac.uk</a>
 
-He completed his MSc in Software Engineering at the University of Southampton in 2024.
+I completed my MSc in Software Engineering at the University of Southampton in 2024.
 
-Prior to his MSc, he received his BEng in Electronic Information Engineering from Huazhong University of Science and Technology (HUST) in 2023.
+Prior to my MSc, I received my BEng in Electronic Information Engineering from Huazhong University of Science and Technology (HUST) in 2023.

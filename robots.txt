@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://XinzhuoLi777.github.io/sitemap.xml

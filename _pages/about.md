@@ -31,6 +31,8 @@ Xinzhuo Li (李昕卓) is a PhD student in Computer Science at the University of
 
 My research focuses on data management, intelligent database systems, and data privacy.
 
+<i class="fa-solid fa-envelope"></i> <a href="mailto:xinzhuo.li@soton.ac.uk">xinzhuo.li@soton.ac.uk</a>
+
 He completed his MSc in Software Engineering at the University of Southampton in 2024.
 
 Prior to his MSc, he received his BEng in Electronic Information Engineering from Huazhong University of Science and Technology (HUST) in 2023.

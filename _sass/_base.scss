@@ -413,9 +413,11 @@ ul.task-list input[type="checkbox"] {
 
 .social {
   text-align: center;
+  clear: both;
+  margin-top: 1.25rem;
 
   .contact-icons {
-    font-size: 5rem;
+    font-size: 4rem;
 
     a {
       img {
@@ -451,8 +453,11 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 0.85rem;
-    margin-top: 0.15rem;
+    display: block;
+    color: var(--global-text-color);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+    font-weight: 500;
   }
 }
 

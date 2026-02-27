@@ -7,4 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-This page summarizes current academic roles and responsibilities.
+## Teaching Assistant
+
+Performed at University of Southampton:
+
+1. COMP1311 Mathematics I (2025-26)

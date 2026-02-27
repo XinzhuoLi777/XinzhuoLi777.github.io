@@ -417,28 +417,28 @@ ul.task-list input[type="checkbox"] {
   margin-top: 1.25rem;
 
   .contact-icons {
-    font-size: 2.2rem;
+    font-size: 1.6rem;
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
+        width: 2rem;
+        height: 2rem;
         margin-bottom: 1rem;
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
+        width: 2.2rem;
+        height: 2.2rem;
         margin-bottom: 0.5rem;
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 2.2rem;
+          height: 2.2rem;
         }
       }
 
       i::before {
-        font-size: 2.2rem;
+        font-size: 1.6rem;
         line-height: 1;
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;

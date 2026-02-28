@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student (Computer Science) @ Electronics and Computer Science, <a href="https://www.southampton.ac.uk/research/institutes-centres/data-intelligence-society" target="_blank" rel="noopener noreferrer">DAIS</a>, University of Southampton.
+subtitle: PhD Student (Computer Science) @ Electronics and Computer Science, <a href="https://www.southampton.ac.uk/research/institutes-centres/data-intelligence-society" target="_blank" rel="noopener noreferrer">DAIS</a>, [University of Southampton](https://www.southampton.ac.uk/).
 
 profile:
   align: right
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at the University of Southampton, working under the supervision of [Prof. George Konstantinidis](https://www.konstantinidis.org/) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez).
+I am a PhD student in Computer Science at the [University of Southampton](https://www.southampton.ac.uk/), working under the supervision of [Prof. George Konstantinidis](https://www.konstantinidis.org/) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez).
 
 My research focuses on data management, intelligent database systems, and data privacy.
 
-I completed my MSc in Software Engineering at the University of Southampton in 2024.
+I completed my MSc in Software Engineering at the [University of Southampton](https://www.southampton.ac.uk/) in 2024.
 
 Prior to my MSc, I received my BEng in Electronic Information Engineering from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2023.

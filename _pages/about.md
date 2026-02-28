@@ -33,4 +33,4 @@ My research focuses on data management, intelligent database systems, and data p
 
 I completed my MSc in Software Engineering at the University of Southampton in 2024.
 
-Prior to my MSc, I received my BEng in Electronic Information Engineering from Huazhong University of Science and Technology (HUST) in 2023.
+Prior to my MSc, I received my BEng in Electronic Information Engineering from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2023.

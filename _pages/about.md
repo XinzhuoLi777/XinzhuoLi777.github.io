@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student (Computer Science) @ Electronics and Computer Science, <a href="https://www.southampton.ac.uk/research/institutes-centres/data-intelligence-society" target="_blank" rel="noopener noreferrer">DAIS</a>, [University of Southampton](https://www.southampton.ac.uk/).
+subtitle: PhD Student (Computer Science) @ Electronics and Computer Science, <a href="https://www.southampton.ac.uk/research/institutes-centres/data-intelligence-society" target="_blank" rel="noopener noreferrer">DAIS</a>, <a href="https://www.southampton.ac.uk/" target="_blank" rel="noopener noreferrer">University of Southampton</a>.
 
 profile:
   align: right

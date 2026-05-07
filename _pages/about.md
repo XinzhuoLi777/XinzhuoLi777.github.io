@@ -29,7 +29,7 @@ latest_posts:
 
 I am a PhD student in Computer Science at the [University of Southampton](https://www.southampton.ac.uk/), working under the supervision of [Prof. George Konstantinidis](https://www.konstantinidis.org/) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez).
 
-I work on theory-driven modern data management, with a focus on dynamic maintenance, rich query/access semantics, and AI-era data infrastructure.
+I work on database query processing, optimization, and incremental maintenance for governed and evolving data systems. My research treats constraints arising from privacy policies, user consent, data integration dependencies, and provenance requirements as first-class citizens, with the goal of making data sharing and AI data infrastructure efficient, correct, and auditable at scale.
 
 I completed my MSc in Software Engineering at the [University of Southampton](https://www.southampton.ac.uk/) in 2024.
 

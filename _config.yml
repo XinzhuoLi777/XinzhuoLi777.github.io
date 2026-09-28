@@ -270,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Li]
+  first_name: [Xinzhuo, X.]
 
   style: apa
   locale: en
@@ -322,6 +322,7 @@ filtered_bibtex_keywords:
     hal,
     html,
     inspirehep_id,
+    note,
     pdf,
     pmid,
     poster,

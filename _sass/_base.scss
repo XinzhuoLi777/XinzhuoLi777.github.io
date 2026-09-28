@@ -722,6 +722,38 @@ footer.sticky-bottom {
 
 // Publications
 
+// Author-order legend above the publication list (see _pages/publications.md)
+.pub-legend {
+  font-size: 0.875rem;
+  margin: 1rem 0 0;
+
+  // spans get an explicit text colour site-wide, so mute the items themselves too
+  &,
+  > span {
+    color: var(--global-text-color-light);
+  }
+
+  .pub-mark {
+    color: var(--global-theme-color);
+    font-weight: bold;
+  }
+
+  > span + span::before {
+    content: "·";
+    margin: 0 0.5rem;
+  }
+
+  @media (max-width: 576px) {
+    > span {
+      display: block;
+    }
+
+    > span + span::before {
+      content: none;
+    }
+  }
+}
+
 .publications {
   margin-top: 2rem;
 
@@ -788,6 +820,17 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      // Publication status from the BibTeX `note` field, e.g. "Under submission"
+      .periodical.note {
+        display: inline-block;
+        margin-top: 0.25rem;
+        padding: 0 0.5rem;
+        font-size: 0.8rem;
+        color: var(--global-text-color-light);
+        border: 1px solid var(--global-divider-color);
+        border-radius: 1rem;
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
@@ -799,8 +842,15 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bold;
+        }
+
+        // † (alphabetical order) and * (equal contribution) markers
+        sup {
+          color: var(--global-theme-color);
+          font-weight: bold;
+          padding-left: 0.1em;
         }
 
         > span.more-authors {
